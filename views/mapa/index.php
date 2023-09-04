@@ -4,3 +4,4 @@
 
     </div>
 </div>
+<script src="<?= asset('build/js/mapa/index.js') ?>"></script>
